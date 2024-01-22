@@ -1,12 +1,12 @@
 {
-  "name": "cafeteria",
+  "name": "realstate",
   "version": "1.0.0",
-  "description": "Delivery App, BEM, SASS, Gulp, CSS Grid",
+  "description": "RealState, BEM, SASS, Gulp, CSS Grid",
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Juan De la torre @codigoconjuan",
+  "author": "Fernando Madrid",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
